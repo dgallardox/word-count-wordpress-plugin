@@ -1,0 +1,1 @@
+WordPress Plugin that shows word count on posts
